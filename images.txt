@@ -11,3 +11,5 @@ mysql:5.7.44
 #mysql5.7.31
 mysql:5.7.31
 
+#redis:latest
+redis
