@@ -16,3 +16,6 @@ redis
 
 #nginx:1.22.1
 nginx:1.22.1
+
+#nginx:latest
+nginx:latest
