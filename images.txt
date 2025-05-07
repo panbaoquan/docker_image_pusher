@@ -30,3 +30,6 @@ ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 langgenius/dify-web:0.6.13
 langgenius/dify-api:0.6.13
+
+#rustdesk
+rustdesk/rustdesk-server:1.1.11
